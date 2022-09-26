@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25/09/2022, 02:20:49 PM
+    Author     : Sergio
+*/
+
+body{
+    background-color: lightskyblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.text-center {
+  text-align: center;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #1F3A63;
+  border-color: #1F3A63;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #1a3154;
+  border-color: #192e4f;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-family: "Poppins", "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 500;
+  line-height: 1.2;
+  color: #112D58;
+}
